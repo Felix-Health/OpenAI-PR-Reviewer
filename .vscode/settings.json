@@ -1,0 +1,17 @@
+{
+    "workbench.colorCustomizations": {
+        "[White Night]": {
+            "list.focusHighlightForeground": "#000000",
+            "commandCenter.background": "#000000",
+            "panel.background": "#000000",
+            "panel.border": "#080808"
+        },
+        "[White]": {
+            "list.focusHighlightForeground": "#cbb5de",
+            "commandCenter.background": "#ffffff",
+            "panel.background": "#ffffff",
+            "panel.border": "#f0f0f0"
+        },
+        "[GitHub Dark Default]": {}
+    }
+}

@@ -1,6 +1,7 @@
+Based off of [OpenAI PR Reviewer](https://github.com/fluxninja/openai-pr-reviewer)
+
 # OpenAI ChatGPT based PR reviewer and summarizer
 
-![AI](./docs/images/ai.png)
 
 ## Overview
 
